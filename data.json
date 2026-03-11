@@ -1,0 +1,92 @@
+[
+    {
+        "language": "Bengali",
+        "category": "Idiom",
+        "phrase": "মাথা খাওয়া (Matha khawa)",
+        "literal_translation": "Eating head",
+        "meaning": "To bother or annoy someone incessantly.",
+        "context": "Used when someone is talking too much or repeatedly nagging about something.",
+        "cultural_nuance": "Often used amicably among friends or by parents to playfully scold children."
+    },
+    {
+        "language": "Bengali",
+        "category": "Custom",
+        "phrase": "দাদা / দিদি (Dada / Didi)",
+        "literal_translation": "Elder brother / Elder sister",
+        "meaning": "A respectful way to address slightly older individuals, regardless of actual blood relation.",
+        "context": "Appended to the name of an older colleague, acquaintance, or even a stranger to show immediate respect and cultural warmth.",
+        "cultural_nuance": "Bengali culture places high importance on age-based hierarchy and familial address for societal bonding."
+    },
+    {
+        "language": "Spanish",
+        "category": "Idiom",
+        "phrase": "Tomar el pelo",
+        "literal_translation": "To take/pull the hair",
+        "meaning": "To pull someone's leg, to trick or tease them.",
+        "context": "Used in informal, lighthearted situations when someone is joking with another person.",
+        "cultural_nuance": "Reflects the playful teasing (bromas) common in Spanish-speaking familial and friend circles."
+    },
+    {
+        "language": "Spanish",
+        "category": "Grammar",
+        "phrase": "Usted vs. Tú",
+        "literal_translation": "You (formal) vs. You (informal)",
+        "meaning": "Distinct pronouns used for the singular 'you'.",
+        "context": "Tú is used for friends, family, and peers. Usted is used for elders, strangers, or in professional settings.",
+        "cultural_nuance": "While Spain leans heavily towards 'tú' even in somewhat formal settings, Latin American countries generally use 'usted' more strictly as a sign of respect."
+    },
+    {
+        "language": "Japanese",
+        "category": "Idiom",
+        "phrase": "猫をかぶる (Neko wo kaburu)",
+        "literal_translation": "To wear a cat (on one's head)",
+        "meaning": "To feign innocence; to play dumb or act sweet when one is actually mischievous.",
+        "context": "Used when someone behaves better around authority figures than they normally do.",
+        "cultural_nuance": "Relates to the Japanese cultural concept of tatemae (public facade) vs. honne (true feelings)."
+    },
+    {
+        "language": "Japanese",
+        "category": "Custom",
+        "phrase": "お疲れ様です (Otsukaresama desu)",
+        "literal_translation": "You look tired / You must be tired",
+        "meaning": "A greeting, farewell, or phrase of appreciation for hard work.",
+        "context": "Used in the workplace or among groups working together to acknowledge effort.",
+        "cultural_nuance": "It is a foundational phrase in Japanese work culture that builds solidarity and acknowledges collective effort rather than individual achievement."
+    },
+    {
+        "language": "French",
+        "category": "Idiom",
+        "phrase": "Avoir le cafard",
+        "literal_translation": "To have the cockroach",
+        "meaning": "To feel depressed, down, or have the blues.",
+        "context": "Used when experiencing a bout of sadness or melancholy without a very intense clinical reason.",
+        "cultural_nuance": "Coined by Charles Baudelaire, it perfectly captures the somewhat poetic, existential gloom sometimes associated with French literary culture."
+    },
+    {
+        "language": "Arabic (Levantine)",
+        "category": "Phrase",
+        "phrase": "تقبرني (To'burni)",
+        "literal_translation": "May you bury me",
+        "meaning": "A declaration of deep love and affection.",
+        "context": "Often said by parents to children or between deeply entrenched romantic partners.",
+        "cultural_nuance": "It means the speaker loves the person so much they hope to die before them, to spare themselves the pain of living without them. Intensely emotional but common."
+    },
+    {
+        "language": "German",
+        "category": "Idiom",
+        "phrase": "Schadenfreude",
+        "literal_translation": "Harm-joy",
+        "meaning": "Experiencing pleasure, joy, or self-satisfaction that comes from learning of or witnessing the troubles, failures, or humiliation of another.",
+        "context": "Used to describe the secretive feeling of happiness when an arrogant rival fails.",
+        "cultural_nuance": "A perfect example of how German compound words can capture a very specific, universal, yet complex human emotion in a single noun."
+    },
+    {
+        "language": "Mandarin Chinese",
+        "category": "Idiom (Chengyu)",
+        "phrase": "画蛇添足 (Huà shé tiān zú)",
+        "literal_translation": "To draw a snake and add feet",
+        "meaning": "To ruin the effect by adding something superfluous or unnecessary.",
+        "context": "Used to criticize someone for overdoing something or adding an unnecessary detail that spoils the whole.",
+        "cultural_nuance": "Originates from a Warring States period fable, demonstrating the deep reliance on historical literature in modern Chinese expression."
+    }
+]
