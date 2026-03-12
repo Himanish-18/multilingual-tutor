@@ -1,92 +1,344 @@
 [
-    {
-        "language": "Bengali",
-        "category": "Idiom",
-        "phrase": "মাথা খাওয়া (Matha khawa)",
-        "literal_translation": "Eating head",
-        "meaning": "To bother or annoy someone incessantly.",
-        "context": "Used when someone is talking too much or repeatedly nagging about something.",
-        "cultural_nuance": "Often used amicably among friends or by parents to playfully scold children."
-    },
-    {
-        "language": "Bengali",
-        "category": "Custom",
-        "phrase": "দাদা / দিদি (Dada / Didi)",
-        "literal_translation": "Elder brother / Elder sister",
-        "meaning": "A respectful way to address slightly older individuals, regardless of actual blood relation.",
-        "context": "Appended to the name of an older colleague, acquaintance, or even a stranger to show immediate respect and cultural warmth.",
-        "cultural_nuance": "Bengali culture places high importance on age-based hierarchy and familial address for societal bonding."
-    },
-    {
-        "language": "Spanish",
-        "category": "Idiom",
-        "phrase": "Tomar el pelo",
-        "literal_translation": "To take/pull the hair",
-        "meaning": "To pull someone's leg, to trick or tease them.",
-        "context": "Used in informal, lighthearted situations when someone is joking with another person.",
-        "cultural_nuance": "Reflects the playful teasing (bromas) common in Spanish-speaking familial and friend circles."
-    },
-    {
-        "language": "Spanish",
-        "category": "Grammar",
-        "phrase": "Usted vs. Tú",
-        "literal_translation": "You (formal) vs. You (informal)",
-        "meaning": "Distinct pronouns used for the singular 'you'.",
-        "context": "Tú is used for friends, family, and peers. Usted is used for elders, strangers, or in professional settings.",
-        "cultural_nuance": "While Spain leans heavily towards 'tú' even in somewhat formal settings, Latin American countries generally use 'usted' more strictly as a sign of respect."
-    },
-    {
-        "language": "Japanese",
-        "category": "Idiom",
-        "phrase": "猫をかぶる (Neko wo kaburu)",
-        "literal_translation": "To wear a cat (on one's head)",
-        "meaning": "To feign innocence; to play dumb or act sweet when one is actually mischievous.",
-        "context": "Used when someone behaves better around authority figures than they normally do.",
-        "cultural_nuance": "Relates to the Japanese cultural concept of tatemae (public facade) vs. honne (true feelings)."
-    },
-    {
-        "language": "Japanese",
-        "category": "Custom",
-        "phrase": "お疲れ様です (Otsukaresama desu)",
-        "literal_translation": "You look tired / You must be tired",
-        "meaning": "A greeting, farewell, or phrase of appreciation for hard work.",
-        "context": "Used in the workplace or among groups working together to acknowledge effort.",
-        "cultural_nuance": "It is a foundational phrase in Japanese work culture that builds solidarity and acknowledges collective effort rather than individual achievement."
-    },
-    {
-        "language": "French",
-        "category": "Idiom",
-        "phrase": "Avoir le cafard",
-        "literal_translation": "To have the cockroach",
-        "meaning": "To feel depressed, down, or have the blues.",
-        "context": "Used when experiencing a bout of sadness or melancholy without a very intense clinical reason.",
-        "cultural_nuance": "Coined by Charles Baudelaire, it perfectly captures the somewhat poetic, existential gloom sometimes associated with French literary culture."
-    },
-    {
-        "language": "Arabic (Levantine)",
-        "category": "Phrase",
-        "phrase": "تقبرني (To'burni)",
-        "literal_translation": "May you bury me",
-        "meaning": "A declaration of deep love and affection.",
-        "context": "Often said by parents to children or between deeply entrenched romantic partners.",
-        "cultural_nuance": "It means the speaker loves the person so much they hope to die before them, to spare themselves the pain of living without them. Intensely emotional but common."
-    },
-    {
-        "language": "German",
-        "category": "Idiom",
-        "phrase": "Schadenfreude",
-        "literal_translation": "Harm-joy",
-        "meaning": "Experiencing pleasure, joy, or self-satisfaction that comes from learning of or witnessing the troubles, failures, or humiliation of another.",
-        "context": "Used to describe the secretive feeling of happiness when an arrogant rival fails.",
-        "cultural_nuance": "A perfect example of how German compound words can capture a very specific, universal, yet complex human emotion in a single noun."
-    },
-    {
-        "language": "Mandarin Chinese",
-        "category": "Idiom (Chengyu)",
-        "phrase": "画蛇添足 (Huà shé tiān zú)",
-        "literal_translation": "To draw a snake and add feet",
-        "meaning": "To ruin the effect by adding something superfluous or unnecessary.",
-        "context": "Used to criticize someone for overdoing something or adding an unnecessary detail that spoils the whole.",
-        "cultural_nuance": "Originates from a Warring States period fable, demonstrating the deep reliance on historical literature in modern Chinese expression."
-    }
+  {
+    "language": "Bengali",
+    "category": "Idiom",
+    "phrase": "মাথা খাওয়া (Matha khawa)",
+    "literal_translation": "Eating head",
+    "meaning": "To bother or annoy someone incessantly.",
+    "context": "Used when someone is talking too much or repeatedly nagging about something.",
+    "cultural_nuance": "Often used amicably among friends or by parents to playfully scold children."
+  },
+  {
+    "language": "Bengali",
+    "category": "Custom",
+    "phrase": "দাদা / দিদি (Dada / Didi)",
+    "literal_translation": "Elder brother / Elder sister",
+    "meaning": "A respectful way to address slightly older individuals, regardless of blood relation.",
+    "context": "Used with names of older colleagues, neighbors, or strangers to show warmth and respect.",
+    "cultural_nuance": "Kinship terms are widely used in Bengali social interaction to create closeness and hierarchy awareness."
+  },
+  {
+    "language": "Bengali",
+    "category": "Idiom",
+    "phrase": "জলে কুমির ডাঙায় বাঘ (Jole kumir, dangay bagh)",
+    "literal_translation": "Crocodile in water, tiger on land",
+    "meaning": "To be in danger from all sides.",
+    "context": "Used when every available option seems risky.",
+    "cultural_nuance": "Nature-based metaphors are common in Bengali idioms and often tied to lived environmental imagery."
+  },
+  {
+    "language": "Spanish",
+    "category": "Idiom",
+    "phrase": "Tomar el pelo",
+    "literal_translation": "To pull someone's hair",
+    "meaning": "To tease or fool someone playfully.",
+    "context": "Common in casual conversations among friends and family.",
+    "cultural_nuance": "Humor and social teasing are a strong part of informal Spanish-speaking interactions."
+  },
+  {
+    "language": "Spanish",
+    "category": "Grammar",
+    "phrase": "Usted vs. Tú",
+    "literal_translation": "You (formal) vs. you (informal)",
+    "meaning": "Two second-person pronouns signaling social distance and formality.",
+    "context": "Tú for peers/family, usted for formality, elders, or customer-facing settings.",
+    "cultural_nuance": "Usage varies by region; many Latin American contexts maintain stronger formal distinctions than parts of Spain."
+  },
+  {
+    "language": "Spanish",
+    "category": "Phrase",
+    "phrase": "¡Qué pena!",
+    "literal_translation": "What a shame",
+    "meaning": "An expression of sympathy, embarrassment, or disappointment depending on tone.",
+    "context": "Used for unfortunate events or mild social awkwardness.",
+    "cultural_nuance": "Emotional tone carries meaning; intonation often matters more than literal wording."
+  },
+  {
+    "language": "Japanese",
+    "category": "Idiom",
+    "phrase": "猫をかぶる (Neko wo kaburu)",
+    "literal_translation": "To wear a cat",
+    "meaning": "To pretend to be gentle or innocent.",
+    "context": "Said when someone behaves extra politely in front of authority or strangers.",
+    "cultural_nuance": "Connects with public-private persona differences often discussed as tatemae and honne."
+  },
+  {
+    "language": "Japanese",
+    "category": "Custom",
+    "phrase": "お疲れ様です (Otsukaresama desu)",
+    "literal_translation": "You must be tired",
+    "meaning": "A workplace greeting that acknowledges effort.",
+    "context": "Used throughout the workday as greeting, thanks, or sign-off.",
+    "cultural_nuance": "It reinforces collective effort and mutual recognition rather than individual praise."
+  },
+  {
+    "language": "Japanese",
+    "category": "Grammar",
+    "phrase": "〜てしまう (te shimau)",
+    "literal_translation": "To finish completely",
+    "meaning": "Auxiliary that can imply completion or regret.",
+    "context": "Used after verb te-form to show something is done, often unintentionally.",
+    "cultural_nuance": "Many learners hear it as emotional shading, not just tense/aspect."
+  },
+  {
+    "language": "French",
+    "category": "Idiom",
+    "phrase": "Avoir le cafard",
+    "literal_translation": "To have the cockroach",
+    "meaning": "To feel down or gloomy.",
+    "context": "Used in everyday speech for low mood.",
+    "cultural_nuance": "Carries a poetic undertone in French literary and colloquial culture."
+  },
+  {
+    "language": "French",
+    "category": "Grammar",
+    "phrase": "Tu vs. Vous",
+    "literal_translation": "You informal vs. you formal/plural",
+    "meaning": "Pronoun choice signaling familiarity, respect, or plurality.",
+    "context": "Tu for close circles, vous for formal contexts or groups.",
+    "cultural_nuance": "Switching from vous to tu often marks a social relationship milestone."
+  },
+  {
+    "language": "French",
+    "category": "Phrase",
+    "phrase": "Bon courage",
+    "literal_translation": "Good courage",
+    "meaning": "A supportive phrase wishing someone strength for a difficult task.",
+    "context": "Used before exams, long shifts, or unpleasant obligations.",
+    "cultural_nuance": "More specific than good luck; it emphasizes endurance and effort."
+  },
+  {
+    "language": "Arabic (Levantine)",
+    "category": "Phrase",
+    "phrase": "تقبرني (To'burni)",
+    "literal_translation": "May you bury me",
+    "meaning": "A deeply affectionate expression.",
+    "context": "Often used by parents, grandparents, or lovers.",
+    "cultural_nuance": "Hyperbolic emotional language is common in Levantine affection styles."
+  },
+  {
+    "language": "Arabic (Levantine)",
+    "category": "Custom",
+    "phrase": "أهلا وسهلا (Ahlan wa sahlan)",
+    "literal_translation": "Family and ease",
+    "meaning": "A warm welcome greeting.",
+    "context": "Used when receiving guests at home or in social visits.",
+    "cultural_nuance": "Hospitality is central; greetings often carry social obligations of care."
+  },
+  {
+    "language": "German",
+    "category": "Idiom",
+    "phrase": "Schadenfreude",
+    "literal_translation": "Damage-joy",
+    "meaning": "Pleasure at someone else's misfortune.",
+    "context": "Used to name a socially awkward but familiar feeling.",
+    "cultural_nuance": "German compounds often lexicalize precise emotional states."
+  },
+  {
+    "language": "German",
+    "category": "Grammar",
+    "phrase": "Sie vs. du",
+    "literal_translation": "You formal vs. you informal",
+    "meaning": "Pronouns marking formality and social distance.",
+    "context": "Sie in professional or unfamiliar settings, du among friends/family.",
+    "cultural_nuance": "The shift to du can be explicit and socially meaningful in workplaces."
+  },
+  {
+    "language": "German",
+    "category": "Phrase",
+    "phrase": "Feierabend",
+    "literal_translation": "Celebration evening",
+    "meaning": "The time after work when duties are over.",
+    "context": "Said when leaving work or enjoying post-work rest.",
+    "cultural_nuance": "Reflects cultural value placed on boundaries between work and personal life."
+  },
+  {
+    "language": "Mandarin Chinese",
+    "category": "Idiom (Chengyu)",
+    "phrase": "画蛇添足 (Huà shé tiān zú)",
+    "literal_translation": "Draw a snake and add feet",
+    "meaning": "To ruin something by overdoing it.",
+    "context": "Used to criticize unnecessary additions.",
+    "cultural_nuance": "Many chengyu are compact references to classical stories."
+  },
+  {
+    "language": "Mandarin Chinese",
+    "category": "Idiom (Chengyu)",
+    "phrase": "马马虎虎 (Mǎmǎhūhū)",
+    "literal_translation": "Horse horse tiger tiger",
+    "meaning": "So-so; just okay.",
+    "context": "Used to answer how things are going or quality assessments.",
+    "cultural_nuance": "Reduplicative patterns are common and can soften direct judgments."
+  },
+  {
+    "language": "Mandarin Chinese",
+    "category": "Custom",
+    "phrase": "加油 (Jiāyóu)",
+    "literal_translation": "Add oil",
+    "meaning": "Keep going; you can do it.",
+    "context": "Used at exams, sports events, and difficult tasks.",
+    "cultural_nuance": "A high-frequency encouragement phrase across many Chinese-speaking regions."
+  },
+  {
+    "language": "Hindi",
+    "category": "Idiom",
+    "phrase": "नाक कटना (Naak katna)",
+    "literal_translation": "To have one's nose cut",
+    "meaning": "To lose honor or reputation.",
+    "context": "Used when someone feels publicly shamed.",
+    "cultural_nuance": "Honor metaphors strongly influence social language in many South Asian contexts."
+  },
+  {
+    "language": "Hindi",
+    "category": "Phrase",
+    "phrase": "चलता है (Chalta hai)",
+    "literal_translation": "It goes",
+    "meaning": "It's fine; it'll do.",
+    "context": "Used for acceptance of minor imperfections.",
+    "cultural_nuance": "Can signal flexibility and resilience, but sometimes also tolerance for lower standards."
+  },
+  {
+    "language": "Hindi",
+    "category": "Custom",
+    "phrase": "नमस्ते (Namaste)",
+    "literal_translation": "I bow to you",
+    "meaning": "A respectful greeting.",
+    "context": "Used in formal and informal settings with hands joined.",
+    "cultural_nuance": "Gesture and tone together express respect and social warmth."
+  },
+  {
+    "language": "Korean",
+    "category": "Custom",
+    "phrase": "눈치 (Nunchi)",
+    "literal_translation": "Eye-measure",
+    "meaning": "Social tact and ability to read the room.",
+    "context": "Discussed when someone senses group mood without explicit words.",
+    "cultural_nuance": "Collective awareness and subtle social calibration are strongly valued."
+  },
+  {
+    "language": "Korean",
+    "category": "Phrase",
+    "phrase": "수고하셨습니다 (Sugohasyeotseumnida)",
+    "literal_translation": "You worked hard",
+    "meaning": "A polite phrase appreciating effort.",
+    "context": "Used after meetings, shifts, or collaborative tasks.",
+    "cultural_nuance": "Like Japanese work expressions, it maintains harmony and acknowledges shared labor."
+  },
+  {
+    "language": "Korean",
+    "category": "Grammar",
+    "phrase": "존댓말 vs. 반말 (Jondaetmal vs. Banmal)",
+    "literal_translation": "Honorific speech vs. casual speech",
+    "meaning": "Speech levels signaling hierarchy and familiarity.",
+    "context": "Chosen based on age, role, and relational distance.",
+    "cultural_nuance": "Incorrect level can feel rude even if grammar is otherwise correct."
+  },
+  {
+    "language": "Portuguese (Brazil)",
+    "category": "Grammar",
+    "phrase": "Você vs. Tu",
+    "literal_translation": "You (default) vs. you (regional informal)",
+    "meaning": "Both mean singular you but vary by region and verb agreement.",
+    "context": "Você dominates in many regions; tu appears with local patterns.",
+    "cultural_nuance": "Real usage often differs from textbook rules, especially in spoken Brazilian Portuguese."
+  },
+  {
+    "language": "Portuguese (Brazil)",
+    "category": "Phrase",
+    "phrase": "Saudade",
+    "literal_translation": "(No exact equivalent)",
+    "meaning": "Deep longing for someone or something absent.",
+    "context": "Used in music, conversation, and emotional reflection.",
+    "cultural_nuance": "A culturally salient emotion tied to memory, absence, and affection."
+  },
+  {
+    "language": "Russian",
+    "category": "Idiom",
+    "phrase": "Не в своей тарелке (Ne v svoey tarelke)",
+    "literal_translation": "Not in one's own plate",
+    "meaning": "To feel out of place or uncomfortable.",
+    "context": "Used in unfamiliar social situations.",
+    "cultural_nuance": "Everyday Russian idioms often use concrete objects to describe emotional states."
+  },
+  {
+    "language": "Russian",
+    "category": "Custom",
+    "phrase": "Отчество (Otchestvo)",
+    "literal_translation": "Patronymic",
+    "meaning": "Middle name derived from the father's first name, used formally.",
+    "context": "Used with first names in respectful settings like school or work.",
+    "cultural_nuance": "Name forms encode respect and social distance in Russian interaction."
+  },
+  {
+    "language": "Turkish",
+    "category": "Phrase",
+    "phrase": "Kolay gelsin",
+    "literal_translation": "May it come easy",
+    "meaning": "A phrase wishing ease in someone's work.",
+    "context": "Said to workers, shopkeepers, and colleagues during tasks.",
+    "cultural_nuance": "A routine expression of social solidarity in daily public life."
+  },
+  {
+    "language": "Turkish",
+    "category": "Idiom",
+    "phrase": "Kulağına küpe olsun",
+    "literal_translation": "Let it be an earring to your ear",
+    "meaning": "Take this as a lesson and remember it.",
+    "context": "Used after giving advice or warning.",
+    "cultural_nuance": "Material imagery is used metaphorically to suggest memorable wisdom."
+  },
+  {
+    "language": "Italian",
+    "category": "Idiom",
+    "phrase": "In bocca al lupo",
+    "literal_translation": "Into the wolf's mouth",
+    "meaning": "Good luck.",
+    "context": "Said before exams, performances, or difficult events.",
+    "cultural_nuance": "The traditional response is \"Crepi il lupo\" (may the wolf die), though usage is evolving."
+  },
+  {
+    "language": "Italian",
+    "category": "Custom",
+    "phrase": "Fare la scarpetta",
+    "literal_translation": "To make the little shoe",
+    "meaning": "Using bread to wipe up sauce from a plate.",
+    "context": "Common in family meals and casual dining.",
+    "cultural_nuance": "Highlights Italian emphasis on not wasting flavorful food and enjoying meals fully."
+  },
+  {
+    "language": "Swahili",
+    "category": "Phrase",
+    "phrase": "Pole pole",
+    "literal_translation": "Slowly slowly",
+    "meaning": "Take it easy; go step by step.",
+    "context": "Used in daily encouragement and practical advice.",
+    "cultural_nuance": "Often reflects a rhythm of patience and steady progress in East African contexts."
+  },
+  {
+    "language": "Swahili",
+    "category": "Custom",
+    "phrase": "Karibu",
+    "literal_translation": "Welcome",
+    "meaning": "A welcoming word used for greeting and invitation.",
+    "context": "Used with guests, customers, and newcomers.",
+    "cultural_nuance": "Hospitality language is direct and frequent in social and community interactions."
+  },
+  {
+    "language": "Yoruba",
+    "category": "Custom",
+    "phrase": "Ẹ kú iṣẹ́",
+    "literal_translation": "Well done for your work",
+    "meaning": "A respectful acknowledgment of someone's effort.",
+    "context": "Used when meeting someone actively working.",
+    "cultural_nuance": "Greeting forms in Yoruba are context-sensitive and show social attentiveness."
+  },
+  {
+    "language": "Yoruba",
+    "category": "Phrase",
+    "phrase": "Báwo ni?",
+    "literal_translation": "How is it?",
+    "meaning": "How are you?",
+    "context": "Used as a general greeting.",
+    "cultural_nuance": "Greeting rituals are central and often extended beyond a single quick question."
+  }
 ]

@@ -3,7 +3,17 @@ import sys
 from dotenv import load_dotenv
 from rag import MultilingualRAG
 
+
+def _configure_utf8_console():
+    """Ensure multilingual output works on Windows terminals."""
+    if hasattr(sys.stdout, "reconfigure"):
+        sys.stdout.reconfigure(encoding="utf-8")
+    if hasattr(sys.stderr, "reconfigure"):
+        sys.stderr.reconfigure(encoding="utf-8")
+
+
 def main():
+    _configure_utf8_console()
     print("==================================================")
     print("   Multilingual Culture & Language RAG System   ")
     print("==================================================")
