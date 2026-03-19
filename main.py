@@ -1,7 +1,13 @@
+import logging
 import os
 import sys
 from dotenv import load_dotenv
 from rag import MultilingualRAG
+
+logging.basicConfig(
+    level=logging.INFO,
+    format="[%(name)s] %(message)s",
+)
 
 
 def _configure_utf8_console():
@@ -43,6 +49,8 @@ def main():
         
     print("\n[System] Initialization complete! Ready for queries.\n")
     print("Type 'exit' or 'quit' to stop.")
+    print("Tip: prefix your query with a language name for better results,")
+    print("     e.g. 'Japanese: explain neko wo kaburu'\n")
     
     while True:
         try:
@@ -51,8 +59,18 @@ def main():
                 break
             if not query:
                 continue
-                
-            explanation = rag_system.generate_explanation(query)
+
+            # Try to detect a language hint from "Language: query" format
+            language = None
+            if ":" in query:
+                prefix = query.split(":", 1)[0].strip()
+                # Check if the prefix matches a known language name
+                from scraper import LANGUAGE_CONFIG
+                if prefix in LANGUAGE_CONFIG:
+                    language = prefix
+                    query = query.split(":", 1)[1].strip()
+
+            explanation = rag_system.generate_explanation(query, language=language)
             
             print("\n" + "="*50)
             print("  EXPLANATION")
@@ -67,3 +85,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

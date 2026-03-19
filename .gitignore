@@ -7,6 +7,10 @@ ENV/
 env.bak/
 venv.bak/
 
+# Scraper cache
+data_cache.json
+data_scraped.json
+
 # Vector Database
 chroma_db/
 
